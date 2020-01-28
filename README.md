@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Summary
 
-You can use the [editor on GitHub](https://github.com/andranik-sahakyan/Team-Tron-RL/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We are interested in exploring the emergence and evolution of cooperative strategies (trapping, sacrificing, communicating, etc) by playing Tron with teams. It is also interesting to see how the behavior of the agents changes as a response to changes in the environment (e.g. imposing constraints on communication, adding obstacles). The input is a grid representing the current game state with cells indicating the current positions of all agents and walls and the output is a direction for each agent. 
 
 ### Markdown
 
