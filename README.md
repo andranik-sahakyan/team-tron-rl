@@ -1,3 +1,6 @@
+## Appointment Time:
+Thursday, January 30, 2020 at 1:15pm
+
 ## Summary
 
 We are interested in exploring the emergence and evolution of cooperative strategies (trapping, sacrificing, communicating, etc) by playing Tron with teams. It is also interesting to see how the behavior of the agents changes as a response to changes in the environment (e.g. imposing constraints on communication, adding obstacles). The input is a grid representing the current game state with cells indicating the current positions of all agents and walls and the output is a direction for each agent. 
@@ -14,17 +17,17 @@ Our focus will not be solely on analyzing the results/data but we will also be t
 
 ### Minimum goal: Create a version of Tron with teams.
 
-&nbsp;Milestone 1: Run all RLColosseumNotebooks without error; to have our team established with an open line of communication and to have everybody on the same page as to what we plan to do with our project and the exact timeline we plan to do it in; to have set up all necessary software, frameworks, IDEs, etc. along with our Github and website. 
+Milestone 1: Run all RLColosseumNotebooks without error; to have our team established with an open line of communication and to have everybody on the same page as to what we plan to do with our project and the exact timeline we plan to do it in; to have set up all necessary software, frameworks, IDEs, etc. along with our Github and website. 
 
-&nbsp;Milestone 2: Have written code for Tron and written code for RL lib. For tron, the goal is to have created a version of the game that makes it a team game rather than single player. The goal is to have learned how the code works and clearly manipulated it so that its 2-player versus 2-player. For RL lib the goal is to have created a small coding project of our own so we understand how that code works as well. Even if the code is not directly related to Tron in any way; the point of the goal is to have learned how to use the library to create something. 
+Milestone 2: Have written code for Tron and written code for RL lib. For tron, the goal is to have created a version of the game that makes it a team game rather than single player. The goal is to have learned how the code works and clearly manipulated it so that its 2-player versus 2-player. For RL lib the goal is to have created a small coding project of our own so we understand how that code works as well. Even if the code is not directly related to Tron in any way; the point of the goal is to have learned how to use the library to create something. 
 
 ### Realistic goal: Create a reinforcement-learning agent that cooperates with teammates to win our version of Tron.
 
-&nbsp;Milestone 1: Successfully created and completed a Tron team game that uses reinforcement learning; the goal is to clearly see the teams cooperate and possibly use strategy to try and achieve a win. 
+Milestone 1: Successfully created and completed a Tron team game that uses reinforcement learning; the goal is to clearly see the teams cooperate and possibly use strategy to try and achieve a win. 
 
-&nbsp;Milestone 2:  Implement Deep Q-learning with a neural network in order to 
+Milestone 2:  Implement Deep Q-learning with a neural network in order to 
 make our agents more intelligent. 
 
 ### Ambitious goal: Make the environment more complex by adding additional constraints/obstacles and observe interesting behavior from agents. Implement new RL techniques such as curiosity-driven exploration and hindsight experience replay.
  
-&nbsp; Milestone: Allow the agents to view/share each other’s experience when they are physically close as a form of communicating and sharing knowledge. We hope the agents will realize that sharing their experiences will help the team stronger as it will accelerate learning.
+Milestone: Allow the agents to view/share each other’s experience when they are physically close as a form of communicating and sharing knowledge. We hope the agents will realize that sharing their experiences will help the team stronger as it will accelerate learning.
