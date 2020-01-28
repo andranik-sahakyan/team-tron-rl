@@ -1,6 +1,6 @@
 ## Team Members
 **Andranik Saakyan** &nbsp;&nbsp; saakyana@uci.edu <br>
-**Arya Kashani** &nbsp;&nbsp;&nbsp; akashan1@uci.edu 
+**Arya Kashani** &nbsp;&nbsp;&nbsp;&nbsp; akashan1@uci.edu 
 
 ## Appointment Time
 Thursday, January 30, 2020 at 1:15pm
