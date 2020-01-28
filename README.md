@@ -1,4 +1,4 @@
-## Appointment Time:
+## Appointment Time
 Thursday, January 30, 2020 at 1:15pm
 
 ## Summary
