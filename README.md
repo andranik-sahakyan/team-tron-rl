@@ -1,6 +1,6 @@
 ## Team Members
 [**Andranik Sahakyan**](mailto:saakyana@uci.edu) <br>
-[**Arya Kashani**](mailto:akashan1@uci.edu) 
+[**Arya Kashani**](mailto:akashan1@uci.edu) <br> 
 [**Tim Hakobian**](mailto:thakobia@uci.edu)
 
 ## Appointment Time
