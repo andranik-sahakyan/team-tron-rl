@@ -3,7 +3,7 @@
 [**Arya Kashani**](mailto:akashan1@uci.edu) <br> 
 
 ## Appointment Time
-Thursday, January 30, 2020 at 1:15pm
+Friday, February 14, 2020 at 9:45am
 
 ## Summary
 
