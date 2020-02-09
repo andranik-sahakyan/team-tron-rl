@@ -1,5 +1,6 @@
 ## Team Members
 [**Andranik Sahakyan**](mailto:saakyana@uci.edu) <br>
+![Andranik Sahakyan](https://github.com/andranik-sahakyan/team-tron-rl/blob/master/docs/andranik-profile.jpg)
 [**Arya Kashani**](mailto:akashan1@uci.edu) <br> 
 
 ## Appointment Time
